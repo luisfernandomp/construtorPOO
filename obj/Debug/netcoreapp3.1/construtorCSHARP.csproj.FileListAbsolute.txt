@@ -1,0 +1,13 @@
+C:\Users\HOME\Documents\construtorCSHARP\bin\Debug\netcoreapp3.1\construtorCSHARP.exe
+C:\Users\HOME\Documents\construtorCSHARP\bin\Debug\netcoreapp3.1\construtorCSHARP.deps.json
+C:\Users\HOME\Documents\construtorCSHARP\bin\Debug\netcoreapp3.1\construtorCSHARP.runtimeconfig.json
+C:\Users\HOME\Documents\construtorCSHARP\bin\Debug\netcoreapp3.1\construtorCSHARP.runtimeconfig.dev.json
+C:\Users\HOME\Documents\construtorCSHARP\bin\Debug\netcoreapp3.1\construtorCSHARP.dll
+C:\Users\HOME\Documents\construtorCSHARP\bin\Debug\netcoreapp3.1\construtorCSHARP.pdb
+C:\Users\HOME\Documents\construtorCSHARP\obj\Debug\netcoreapp3.1\construtorCSHARP.csprojAssemblyReference.cache
+C:\Users\HOME\Documents\construtorCSHARP\obj\Debug\netcoreapp3.1\construtorCSHARP.AssemblyInfoInputs.cache
+C:\Users\HOME\Documents\construtorCSHARP\obj\Debug\netcoreapp3.1\construtorCSHARP.AssemblyInfo.cs
+C:\Users\HOME\Documents\construtorCSHARP\obj\Debug\netcoreapp3.1\construtorCSHARP.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Documents\construtorCSHARP\obj\Debug\netcoreapp3.1\construtorCSHARP.dll
+C:\Users\HOME\Documents\construtorCSHARP\obj\Debug\netcoreapp3.1\construtorCSHARP.pdb
+C:\Users\HOME\Documents\construtorCSHARP\obj\Debug\netcoreapp3.1\construtorCSHARP.genruntimeconfig.cache
